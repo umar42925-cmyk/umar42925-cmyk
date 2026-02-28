@@ -1,16 +1,36 @@
-## Hi there 👋
+# Umar Bashir Farooqi
 
-<!--
-**umar42925-cmyk/umar42925-cmyk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Architecting modular AI systems with structured memory, intent routing, and execution engines.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current Focus
+
+- Agent-based AI architecture
+- Structured memory systems (explicit / implicit separation)
+- Intent-driven routing (no hard-coded heuristics)
+- Trading structural analysis engines
+- Long-horizon analytical modeling
+
+---
+
+## Architecture Principles
+
+- Modular layered design (UI → Hooks → Services → Contracts)
+- No monolithic files
+- Write-after-response memory
+- Zero execution authority for memory
+- Explicit separation of analysis vs strategy
+- Deterministic execution boundaries
+
+---
+
+## Selected Systems
+
+- AI Agent (memory-first architecture)
+- AI Trading Assistant (structural engine integration)
+- Long-horizon market analysis framework
+
+---
+
+ORCID: https://orcid.org/0009-0002-5652-1430
